@@ -1,0 +1,1 @@
+# creaAUnicodeSymb.js
